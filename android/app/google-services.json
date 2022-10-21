@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767473753449",
+    "project_id": "bds-services-pvt-ltd",
+    "storage_bucket": "bds-services-pvt-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767473753449:android:bab2069d7edeada791f1f8",
+        "android_client_info": {
+          "package_name": "com.example.bds_services_pvt_ltd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767473753449-rnrlb4v78lkfsjafn6le3gpadjvd5btk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bds_services_pvt_ltd",
+            "certificate_hash": "6bcb42a25c4db7b31ca5642d21e1663e4d9cffc1"
+          }
+        },
+        {
+          "client_id": "767473753449-2t2k4tm2ese7mobf58jg7c1r46vaanhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvhf3cNI3tFRqVawuKyRJSvioo2LivvTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767473753449-2t2k4tm2ese7mobf58jg7c1r46vaanhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
